@@ -18,6 +18,9 @@ public class MenuScript : MonoBehaviour
         
     }
 
+    /**
+     * Called through the on click button event, opens the respective menustrip
+     */
     public void OnMenuClick()
     {
         // show menu strip when menu is clicked
